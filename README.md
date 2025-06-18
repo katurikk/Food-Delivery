@@ -117,6 +117,4 @@ Connect on [LinkedIn](https://linkedin.com) • [GitHub](https://github.com/your
 
 ---
 
-## 📄 License
 
-MIT
